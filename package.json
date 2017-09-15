@@ -1,0 +1,19 @@
+{
+  "name": "autospecter",
+  "version": "0.0.1",
+  "description": "An library to automagically create/update a loopback model configuration / model schema from an existing MySQL database",
+  "main": "autospecter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostybits/autospecter.git"
+  },
+  "author": "ghostybits",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostybits/autospecter/issues"
+  },
+  "homepage": "https://github.com/ghostybits/autospecter#readme"
+}
